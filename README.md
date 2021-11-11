@@ -52,7 +52,7 @@ It's my pet projects with any technologies and patterns.
 
 | Repository| Pattern  | Navigation              | Multithreading | DI              |
 | :-------- | :--------| :-----------            | :-----------   | :-----------    |
-| ***       | MVVM     |   NavComponent          |   Coroutines   | Koin            |
+|[Choose the branch](https://github.com/dzhumaliev/Pet_NewsApp)      | MVVM     |   NavComponent          |   Coroutines   | Koin            |
 | ***       | MVP      |                         |                | Hilt            |
 |           |          |                         |                | Dagger 2        |
 |           |          |                         |   RxKotlin     | Koin            |
