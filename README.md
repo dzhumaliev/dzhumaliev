@@ -1,8 +1,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Logo](https://user-images.githubusercontent.com/52753194/141317821-f5e50443-5d80-4fe6-80cb-89c3bbbcd967.png)
+![Logo](https://user-images.githubusercontent.com/52753194/141319610-193463ad-be04-48b9-8fba-d5aac9ba88e4.png)
 
-# Hi there! I'm Isak
+# Hi there! I'm Isak!
 
 
 #### I believe that everyone in this world is special and has its own place to be.
