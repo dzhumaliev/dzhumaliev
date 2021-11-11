@@ -1,11 +1,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Logo](https://user-images.githubusercontent.com/52753194/141317505-1f8dc783-5d52-4a2b-ba6d-8e71a4bdd98d.png)
+![Logo](https://user-images.githubusercontent.com/52753194/141317821-f5e50443-5d80-4fe6-80cb-89c3bbbcd967.png)
 
 # Hi there! I'm Isak
 
 
 #### I believe that everyone in this world is special and has its own place to be.
+
 
 
 ## 2+ years experience specializing in the Android Development. 
