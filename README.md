@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Logo](https://user-images.githubusercontent.com/52753194/141314850-df956715-e64d-44f9-8ae7-8ee57f97d959.png)
+![Logo](https://user-images.githubusercontent.com/52753194/141317505-1f8dc783-5d52-4a2b-ba6d-8e71a4bdd98d.png)
 
 # Hi there! I'm Isak
 
