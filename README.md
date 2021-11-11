@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**dzhumaliev/dzhumaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## API Reference
 
-Here are some ideas to get you started:
+#### Get all items
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```http
+  GET /api/items
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
+#### Get item
+
+```http
+  GET /api/items/${id}
+```
+
+| Parameter | Type     | Description                       |Description|
+| :-------- | :------- | :-------------------------------- |:------|
+| `id`      | `string` | **Required**. Id of item to fetch |ss|
+
+#### add(num1, num2)
+
+Takes two numbers and returns the sum.
+
