@@ -15,7 +15,7 @@
 ## 🛠 Skills
 
 - MVVM & MVP
-- Koin
+- Koin / Hilt
 - Coroutines
 - DB Room
 - NavComponent & Cicerone
