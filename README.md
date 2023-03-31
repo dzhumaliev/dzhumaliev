@@ -50,6 +50,7 @@
 It's my pet projects with any technologies and patterns.
 
 
+
 | Repository| Pattern  | Navigation              | Multithreading | DI              |
 | :-------- | :--------| :-----------            | :-----------   | :-----------    |
 |[Choose the branch](https://github.com/dzhumaliev/Pet_NewsApp)      | MVVM     |   NavComponent          |   Coroutines   | Koin            |
@@ -58,6 +59,8 @@ It's my pet projects with any technologies and patterns.
 |           |          |                         |   RxKotlin     | Koin            |
 |           |          |                         |                | Hilt            |
 |           |          |                         |                | Dagger 2        |
+
+<!-- 
 
 | Repository| Pattern  | Navigation              | Multithreading | DI              |
 | :-------- | :--------| :-----------            | :-----------   | :-----------    |
@@ -77,6 +80,7 @@ It's my pet projects with any technologies and patterns.
 |           |          |                         |                | Hilt            |
 |           |          |                         |                | Dagger 2        |
 
+-->
 
 
 
