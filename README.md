@@ -30,6 +30,10 @@ But interested on everything
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsakDz&layout=compact)
+
+
+
 <!-- ### 3+ years experience specializing in the Android Development. 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
