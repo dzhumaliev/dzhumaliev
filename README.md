@@ -30,7 +30,7 @@ But interested on everything
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsakDz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsakDz&layout=compact&theme=tokyonight)
 
 
 
