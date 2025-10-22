@@ -1,9 +1,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- ![Logo](https://user-images.githubusercontent.com/52753194/141319610-193463ad-be04-48b9-8fba-d5aac9ba88e4.png)
--->
-
-"Hi there! I'm Isak!
 
 My motto in life is: 'Never too late to study something new.'
 
@@ -15,12 +12,16 @@ Plan for 2025:
 
 - Golang
 
+-->
+
+"Hi there! I'm Isak!
+
+
 
 
 The wisdom from God is to make a balance between: Belief in God / Being with family / Hard work
 
 I believe that God gave us minds, and we need to use them to their full potential."
-
 
 
 I am Mobile Developer
