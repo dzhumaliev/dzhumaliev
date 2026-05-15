@@ -14,20 +14,12 @@ Plan for 2025:
 
 -->
 
-"Hi there! I'm Isak!
 
 
 
 
-The wisdom from God is to make a balance between: Belief in God / Being with family / Hard work
-
-I believe that God gave us minds, and we need to use them to their full potential."
 
 
-I am Mobile Developer
-Android / iOS
-
-But interested on everything
 
 
 
