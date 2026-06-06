@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dzhumaliev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzhumaliev&layout=compact)
 
 <!-- ![Logo](https://user-images.githubusercontent.com/52753194/141319610-193463ad-be04-48b9-8fba-d5aac9ba88e4.png)
 
