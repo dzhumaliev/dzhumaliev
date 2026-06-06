@@ -5,7 +5,7 @@
 
 
 
-
+https://github-readme-stats.vercel.app/api?username=dzhumaliev&show_icons=true
 
 
 
