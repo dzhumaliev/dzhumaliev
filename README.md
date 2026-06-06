@@ -5,7 +5,7 @@
 
 
 
-https://github-readme-stats.vercel.app/api?username=dzhumaliev&show_icons=true
+[![trophy](https://github-profile-trophy.vercel.app/?username=dzhumaliev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
